@@ -1,0 +1,8 @@
+defmodule AliyunTest do
+  use ExUnit.Case
+  doctest Aliyun
+
+  test "the truth" do
+    assert 1 + 1 == 2
+  end
+end
